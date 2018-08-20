@@ -227,6 +227,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-27-arm64/libdebuggerd_client.so:system/lib64/vndk-27/libdebuggerd_client.so \
 	vendor/vndk/vndk-27-arm64/libdng_sdk.so:system/lib64/vndk-27/libdng_sdk.so \
 	vendor/vndk/vndk-27-arm64/libeffectsconfig.so:system/lib64/vndk-27/libeffectsconfig.so \
+	vendor/vndk/vndk-27-arm64/libEGL.so:system/lib64/vndk-27/libEGL.so \
 	vendor/vndk/vndk-27-arm64/libETC1.so:system/lib64/vndk-27/libETC1.so \
 	vendor/vndk/vndk-27-arm64/libGLESv2.so:system/lib64/vndk-27/libGLESv2.so \
 	vendor/vndk/vndk-27-arm64/libGLESv3.so:system/lib64/vndk-27/libGLESv3.so \
@@ -238,6 +239,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-27-arm64/libicuuc.so:system/lib64/vndk-27/libicuuc.so \
 	vendor/vndk/vndk-27-arm64/libimg_utils.so:system/lib64/vndk-27/libimg_utils.so \
 	vendor/vndk/vndk-27-arm64/libinput.so:system/lib64/vndk-27/libinput.so \
+	vendor/vndk/vndk-27-arm64/libjnigraphics.so:system/lib64/vndk-27/libjnigraphics.so \
 	vendor/vndk/vndk-27-arm64/libkeystore_binder.so:system/lib64/vndk-27/libkeystore_binder.so \
 	vendor/vndk/vndk-27-arm64/liblogwrap.so:system/lib64/vndk-27/liblogwrap.so \
 	vendor/vndk/vndk-27-arm64/libmediadrm.so:system/lib64/vndk-27/libmediadrm.so \
@@ -252,6 +254,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-27-arm64/libnetd_client.so:system/lib64/vndk-27/libnetd_client.so \
 	vendor/vndk/vndk-27-arm64/libpackagelistparser.so:system/lib64/vndk-27/libpackagelistparser.so \
 	vendor/vndk/vndk-27-arm64/libpdfium.so:system/lib64/vndk-27/libpdfium.so \
+	vendor/vndk/vndk-27-arm64/libpowermanager.so:system/lib64/vndk-27/libpowermanager.so \
 	vendor/vndk/vndk-27-arm64/libprocessgroup.so:system/lib64/vndk-27/libprocessgroup.so \
 	vendor/vndk/vndk-27-arm64/libRScpp.so:system/lib64/vndk-27/libRScpp.so \
 	vendor/vndk/vndk-27-arm64/libselinux.so:system/lib64/vndk-27/libselinux.so \
