@@ -258,6 +258,7 @@ PRODUCT_COPY_FILES += \
 	vendor/vndk/vndk-27-arm64/libprocessgroup.so:system/lib64/vndk-27/libprocessgroup.so \
 	vendor/vndk/vndk-27-arm64/libRScpp.so:system/lib64/vndk-27/libRScpp.so \
 	vendor/vndk/vndk-27-arm64/libselinux.so:system/lib64/vndk-27/libselinux.so \
+	vendor/vndk/vndk-27-arm64/libsensorservice.so:system/lib64/vndk-27/libsensorservice.so \
 	vendor/vndk/vndk-27-arm64/libsensor.so:system/lib64/vndk-27/libsensor.so \
 	vendor/vndk/vndk-27-arm64/libskia.so:system/lib64/vndk-27/libskia.so \
 	vendor/vndk/vndk-27-arm64/libsoftkeymaster.so:system/lib64/vndk-27/libsoftkeymaster.so \
